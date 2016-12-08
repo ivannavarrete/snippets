@@ -1,8 +1,3 @@
-##### Show log history of a subdirectory
-
-    git log -- <subdir>
-
-
 ### Submodules
 
 ##### Add submodule
